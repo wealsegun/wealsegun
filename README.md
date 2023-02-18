@@ -37,15 +37,18 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
+  ---
+
+### 👨‍💻: About Me :
+
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 Olawale has over 8 years of professional experience in software engineering, with a strong focus on developing high-quality software products and services. He has a deep understanding of the entire software development life cycle, from requirements gathering and analysis, to design and implementation, to testing and deployment. He is passionate about creating software solutions that are both reliable and secure.
 
 Olawale has a proven track record of managing and delivering successful software projects. He has worked on a wide range of projects for both startups and established companies, ranging from mobile applications and web services to enterprise-level cloud solutions. He has also led teams in the development of innovative solutions for a variety of industries, including retail, healthcare, legal, finance, insurance, event and electronic smart devices
-
-He is a highly experienced and skilled software engineer, with a vast range of experience in software engineering and development, software architecture and design, and software project management.
-Proactive and results-driven software engineering professional capable of building outstanding, high-energy teams and products.
-
-I am also a critical thinker and an advocate for "Clarity of Purpose before Implementation"; which has helped me to break complex problems into understandable and sizeable bits to be solved in the most efficient way possible.
+  
+  
   </div>
   
  
