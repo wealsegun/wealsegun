@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ogunleye-olawale">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -32,14 +32,5 @@ Here are some ideas to get you started:
   
   </div>
   
-  
-  <styles>
-  .container {
-      display: flex;
-      flex-direction: column;
-      flex-wrap: wrap;
-      gap: 2rem;
-      justify-content: center;
-  }
-  </styles>
+ 
   
