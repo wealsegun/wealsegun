@@ -87,7 +87,7 @@ Olawale has a proven track record of managing and delivering successful software
 
   ### :fire: My Stats :
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealsegun&theme=dark&border=D47B7BB6)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealsegun&theme=dark&border=D47B7BB6)](https://git.io/streak-stats)
   </div>
   
  
