@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
+</div>
