@@ -61,6 +61,8 @@ Olawale has over 8 years of professional experience in software engineering, wit
 </div>
   ---
 
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a9eb21f863343482395e54?variant=dark" alt="roadmap.sh"/></a>
+
   ### :fire: My Stats :
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealsegun&theme=dark&border=D47B7BB6)](https://git.io/streak-stats)
