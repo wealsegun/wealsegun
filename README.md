@@ -1,73 +1,107 @@
-<h1 align="center">
-  Hey there 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-  Welcome to My GitHub Profile
-</h1>
+<h1 align="center">Hi, I'm Olawale Ogunleye 👋</h1>
+<h3 align="center">Senior Software Engineer | Full Stack Developer | Cloud Architect</h3>
 
-<div align="center" id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/ogunleye-olawale">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCjIFYv3KJaU8b4Rk2TLHrxQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/wealsegun">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wealsegun&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I’m **Olawale Ogunleye**, a **Software Engineer Manager** with over **10 years of experience** designing, developing, and scaling high-performance web applications and cloud-based solutions.
-
-Throughout my career, I’ve delivered robust software for industries ranging from **fintech** to **enterprise SaaS**, combining **deep technical expertise** with a passion for clean, maintainable, and secure code.
-
-I specialize in **full-stack development**, with a proven track record in both frontend and backend engineering, cloud architecture, and DevOps.
-
-- 🔭 **Currently Building:** Cross-border payment solutions for emerging markets.  
-- 🌍 **Location:** Nigeria  
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ogunleye-olawale) | [Twitter](https://twitter.com/wealsegun)  
-- ⚡ **Fun fact:** I mentor upcoming developers and contribute to open-source projects.
+  <a href="https://www.youtube.com/channel/UCjIFYv3KJaU8b4Rk2TLHrxQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="AngularJs"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" width="40" height="40" title="Azure"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40" height="40" title="Material UI"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title=".NET Core"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" title="Redux"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="CSS3"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" title="Firebase"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="NodeJS"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" title="Git"/>
-</div>
+I’m **Olawale Ogunleye**, a **Senior Software Engineer** with **10+ years** of experience building and scaling world-class applications across **fintech, SaaS, and enterprise systems**.
+
+I thrive at the intersection of **product vision** and **technical execution**, transforming complex requirements into scalable, maintainable, and secure solutions.
+
+💡 **Core beliefs:**
+- Software should be **built to last** — clean architecture, tested, and maintainable.
+- **User experience matters** as much as code quality.
+- Collaboration and mentorship are essential for long-term team success.
 
 ---
 
-## 📊 My Developer Journey
+## 📜 My Journey
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a9eb21f863343482395e54?variant=dark" alt="roadmap.sh"/></a>
+| Year | Milestone |
+|------|-----------|
+| 2013 | Started as a junior developer, mastering **.NET, C#, and SQL** |
+| 2016 | Transitioned to **full-stack development**, adding **React, Angular** |
+| 2018 | Led my first **enterprise SaaS project**, handling architecture & deployments |
+| 2020 | Moved into **cloud-native applications** with AWS & Azure |
+| 2021 | Founded **OS LIMITED** |
+| 2021 | Founded **OSSOFTS LLC**, a Global Software Company registerd in the USA|
+| 2025 | Founded **TradeSwift**, a cross-border fintech platform |
+| 2025 | Architecting and scaling distributed payment systems for emerging markets |
 
 ---
 
-## 🚀 My GitHub Stats
+## 🏆 Key Achievements
+
+- **Scaled** a fintech platform from MVP to 50k+ active users in under 18 months.  
+- Designed **secure payment gateways** integrating Stripe, Flutterwave, and PayPal.  
+- Built **multi-tenant enterprise applications** with role-based access control.  
+- Architected **real-time financial reporting systems** processing millions of transactions daily.  
+- Mentored **20+ junior and mid-level developers** into senior engineering roles.
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 [TradeSwift](https://www.tradeswifts.com)
+**Cross-border payments platform** for emerging markets, enabling B2B companies to send and receive international payments with competitive FX rates.
+
+**Tech stack:** `React` `NestJS` `Prisma` `PostgreSQL` `AWS ECS` `Docker`
+
+---
+
+### 🔹 Eazzy Transact
+Enterprise **financial transaction system** with bank API integrations, fraud prevention, and automated reconciliation.
+
+**Tech stack:** `.NET Core` `Angular` `Azure` `SQL Server`
+
+---
+
+### 🔹 Tracware
+A **business management suite** for SMEs to manage invoicing, customer relationships, and analytics.
+
+**Tech stack:** `React` `Node.js` `Express` `MongoDB`
+
+---
+
+## 🛠 Tech Toolbox
+
+**Languages:**  
+`JavaScript` `TypeScript` `C#` `SQL` `Python`
+
+**Frameworks & Libraries:**  
+`React` `Angular` `NestJS` `.NET Core` `Redux` `Material UI`
+
+**Cloud & DevOps:**  
+`AWS` `Azure` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`
+
+**Databases:**  
+`PostgreSQL` `MySQL` `MongoDB` `SQL Server`
+
+---
+
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wealsegun&theme=dark&border=D47B7BB6)](https://git.io/streak-stats)  
 ![Olawale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wealsegun&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+💬 I’m always open to discussing **new projects, collaborations, or mentoring opportunities**.  
+📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/ogunleye-olawale)** or **[Twitter](https://twitter.com/wealsegun)**.
 
 ---
